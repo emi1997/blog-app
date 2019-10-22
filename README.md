@@ -1,6 +1,6 @@
 # console-app
 
-console-ap ist eine App mit der man Elasticsearch Indices und Dokumente verwalten kann.
+console-app ist eine App mit der man Elasticsearch Indices und Dokumente verwalten kann.
 
 ## Liste der Kommandos
 

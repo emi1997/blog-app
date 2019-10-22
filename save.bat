@@ -1,3 +1,3 @@
 @echo
 
-git add . && git commit -m "update" && git push origin alpha
+git add . && git commit -m "update" && git push origin HEAD:alpha

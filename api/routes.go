@@ -9,3 +9,7 @@ func EmptyCall(w http.ResponseWriter, r *http.Request) {
 	//indicates where the files are located
 	http.FileServer(http.Dir("../html"))
 }
+
+func AboutMe(w http.ResponseWriter, r *http.Request) {
+	http.FileServer(http.Dir("../html/aboutme"))
+}
